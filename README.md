@@ -41,6 +41,7 @@ ansible
 微服务  
 视频直播   
 腾讯云  
+lua  
 
 ## Do of the job: 
 favonian_order  
