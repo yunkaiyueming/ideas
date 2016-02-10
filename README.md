@@ -9,3 +9,4 @@ workmen
 学习用git记录起来，gitHub上管理  
 go_code  
 自动化     
+持续 坚持   
