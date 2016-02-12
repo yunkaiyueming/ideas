@@ -10,3 +10,13 @@ workmen
 go_code  
 自动化     
 持续 坚持   
+
+
+### Do of the job: 
+favonian_order  
+crm  
+hr_resume  
+bi  
+gpm  
+hammer
+微信企业号开发  
