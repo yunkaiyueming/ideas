@@ -10,6 +10,7 @@ workmen
 go_code  
 自动化     
 持续 坚持   
+technology_graph
 
 
 ### Do of the job: 
