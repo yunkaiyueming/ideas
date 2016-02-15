@@ -11,6 +11,7 @@ go_code
 自动化     
 持续 坚持   
 technology_graph
+商业策划书，商业命名  
 
 
 ### Do of the job: 
@@ -19,5 +20,5 @@ crm
 hr_resume  
 bi  
 gpm  
-hammer
+hammer  
 微信企业号开发  
