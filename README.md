@@ -10,9 +10,9 @@ workmen
 go_code  
 自动化     
 持续 坚持   
-technology_graph
-商业策划书，商业命名  
-
+technology_graph 
+Business Plan,Business Name 
+rfid
 
 ### Do of the job: 
 favonian_order  
