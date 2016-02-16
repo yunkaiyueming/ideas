@@ -14,7 +14,7 @@ technology_graph
 Business Plan,Business Name 
 rfid nfc  
 
-### Do of the job: 
+## Do of the job: 
 favonian_order  
 crm  
 hr_resume  
@@ -23,3 +23,7 @@ gpm
 hammer  
 微信企业号开发  
 cas_admin 
+
+## todo list of pro:
+### cnblog_query: 
+1. 首页查询需要重构
