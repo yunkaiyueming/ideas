@@ -12,7 +12,7 @@ go_code
 持续 坚持   
 technology_graph 
 Business Plan,Business Name 
-rfid
+rfid nfc  
 
 ### Do of the job: 
 favonian_order  
@@ -22,3 +22,4 @@ bi
 gpm  
 hammer  
 微信企业号开发  
+cas_admin 
