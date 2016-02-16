@@ -5,6 +5,7 @@ tcp/ip
 网页弹幕  
 书籍  
 workmen   
+swoole  
 对大脑思维，思考方式上的关注  
 学习用git记录起来，gitHub上管理  
 go_code  
@@ -31,3 +32,6 @@ cas_admin
 
 ### bi_app_config:
 side_bar菜单录入库，按权限管理
+
+###go_code:
+完善代码
