@@ -14,6 +14,8 @@ go_code
 technology_graph 
 Business Plan,Business Name 
 rfid nfc  
+kafka  
+go_cd
 
 ## Do of the job: 
 favonian_order  
