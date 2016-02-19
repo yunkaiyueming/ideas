@@ -11,7 +11,7 @@ swoole
 go_code  
 自动化     
 持续 坚持   
-technology_graph 
+--- technology_graph ---  
 Business Plan,Business Name 
 rfid nfc  
 kafka  
@@ -30,7 +30,7 @@ cas_admin
 ## todo list of pro:
 
 ### cnblog_query: 
-1. 首页查询需要重构
+---1. 首页查询需要重构 ---  
 
 ### bi_app_config:
 side_bar菜单录入库，按权限管理
