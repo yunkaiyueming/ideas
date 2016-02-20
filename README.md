@@ -16,7 +16,8 @@ Business Plan,Business Name
 rfid nfc  
 kafka  
 go_cd  
-freefish.com 2016年04月09日过期check  
+freefish.com 2016年04月09日过期check   
+论语等古文思想  
 
 ## Do of the job: 
 favonian_order  
