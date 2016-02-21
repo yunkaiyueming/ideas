@@ -17,7 +17,7 @@ rfid nfc
 kafka  
 go_cd  
 freefish.com 2016年04月09日过期check   
-论语等古文思想  
+论语等古文经典思想  
 
 ## Do of the job: 
 favonian_order  
