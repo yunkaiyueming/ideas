@@ -37,8 +37,8 @@ cas_admin
 
 ### bi_app_config:
 side_bar菜单录入库，按权限管理
-ajax查询
 错误检测：接口正常性检测，配置正常检测
+日志复选删除，日志按时间查询删除
 
 
 ### go_code:
