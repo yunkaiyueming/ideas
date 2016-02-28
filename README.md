@@ -22,6 +22,8 @@ freefish.com 2016年04月09日过期check
 写作:个人传  
 beanstalk  
 redis  
+算法  
+
 
 ## Do of the job: 
 favonian_order  
