@@ -23,8 +23,9 @@ freefish.com 2016年04月09日过期check
 beanstalk  
 redis  
 算法  
-
-
+如何提高记忆力  
+如何阅读  
+如何协作  
 
 ## Do of the job: 
 favonian_order  
