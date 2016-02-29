@@ -12,7 +12,7 @@ swoole
 自动化     
 持续 坚持   
 --- technology_graph ---  
-Business Plan,Business Name 
+Business Plan,Business Name,Business idea
 ---- rfid nfc ---  
 kafka  
 go_cd  
@@ -23,6 +23,7 @@ freefish.com 2016年04月09日过期check
 beanstalk  
 redis  
 算法  
+
 
 
 ## Do of the job: 
@@ -36,6 +37,7 @@ hammer
 cas_admin 
 rj_web
 rsdk-set
+go-cd  
 
 ## todo list of pro:
 
