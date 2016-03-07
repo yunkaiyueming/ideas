@@ -66,3 +66,6 @@ side_bar菜单录入库，按权限管理
 
 ### hammer:  
 组员周报：自动定位到自己部门的周报  
+
+### yii_picture_wall: 
+增加示例demo  
