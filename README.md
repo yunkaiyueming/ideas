@@ -70,3 +70,6 @@ side_bar菜单录入库，按权限管理
 ### yii_picture_wall: 
 增加示例demo  
 分享
+
+### cas_admin: 
+修改用户信息时：admin与cas_admin同勾时显示问题
