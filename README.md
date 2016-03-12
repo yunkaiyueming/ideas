@@ -27,6 +27,7 @@ redis
 如何阅读  
 如何协作  
 微信公众号开发  
+手册网  
 
 ## Do of the job: 
 favonian_order  
