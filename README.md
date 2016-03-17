@@ -29,6 +29,7 @@ redis
 微信公众号开发  
 手册网  
 hive  
+50books  
 
 ## Do of the job: 
 favonian_order  
