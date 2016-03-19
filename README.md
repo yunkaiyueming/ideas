@@ -12,7 +12,7 @@ swoole
 自动化     
 持续 坚持   
 --- technology_graph ---  
-Business Plan,Business Name,Business idea
+Business Plan,Business Name,Business idea  
 ---- rfid nfc ---  
 kafka  
 go_cd  
@@ -44,7 +44,6 @@ rj_web
 rsdk-set  
 go-cd   
 note   
-----
 
 ## todo list of pro:
 
