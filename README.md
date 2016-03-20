@@ -30,6 +30,7 @@ redis
 手册网  
 hive  
 50books  
+操作系统  
 
 ## Do of the job: 
 favonian_order  
