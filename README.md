@@ -32,6 +32,7 @@ hive
 50books  
 操作系统  
 好问题  
+redis   
 
 ## Do of the job: 
 favonian_order  
