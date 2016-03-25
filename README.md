@@ -34,6 +34,8 @@ hive
 好问题  
 redis 
 ip    
+linux  
+数据分析  
 
 ## Do of the job: 
 favonian_order  
