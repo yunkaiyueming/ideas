@@ -32,7 +32,7 @@ hive
 50books  
 操作系统  
 好问题  
-redis 
+redis memcached    
 ip    
 linux  
 数据分析  
