@@ -38,7 +38,7 @@ linux
 数据分析  
 运维  
 docker vs vagrant   
-
+运营  
 
 ## Do of the job: 
 favonian_order  
