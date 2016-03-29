@@ -19,7 +19,7 @@ go_cd
 freefish.com 2016年04月09日过期check   
 论语等古文经典思想    
 --- 名人传 ---
-写作:个人传  
+写作特点
 beanstalk  
 redis  
 算法  
