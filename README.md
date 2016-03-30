@@ -39,6 +39,8 @@ linux
 运维  
 docker vs vagrant   
 运营  
+产品   
+逻辑思维   
 
 ## Do of the job: 
 favonian_order  
