@@ -1,6 +1,6 @@
 # ideas  
 ## To think of the idea： 
-ci   
+ci持续集成 持续交付 持续部署  
 tcp/ip   
 --- 网页弹幕 ---  
 书籍  
@@ -40,7 +40,9 @@ linux
 docker vs vagrant   
 运营  
 产品   
-逻辑思维   
+逻辑思维  
+微服务  
+
 
 ## Do of the job: 
 favonian_order  
