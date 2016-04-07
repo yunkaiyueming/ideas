@@ -42,6 +42,7 @@ docker vs vagrant
 产品   
 逻辑思维  
 微服务  
+ansible  
 
 
 ## Do of the job: 
