@@ -40,6 +40,7 @@ ansible
 逻辑思维  
 微服务  
 视频直播   
+腾讯云  
 
 ## Do of the job: 
 favonian_order  
