@@ -42,6 +42,7 @@ ansible
 视频直播   
 腾讯云  
 lua  
+个人品牌  
 
 ## Do of the job: 
 favonian_order  
