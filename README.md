@@ -1,10 +1,10 @@
 # ideas  
 ## To think of the idea：
+---- rfid nfc ---  
+--- technology_graph ---  
 --- 名人传 ---  
 --- 手册网 ---  
 --- 网页弹幕 ---  
----- rfid nfc ---  
---- technology_graph ---  
 
 tcp/ip   
 workmen   
@@ -21,6 +21,7 @@ ip
 linux devops  
 docker vs vagrant   
 ansible  
+lua  
 持续集成 持续交付 持续部署  
 对大脑思维，思考方式上的关注   
 自动化     
@@ -41,7 +42,6 @@ ansible
 微服务  
 视频直播   
 腾讯云  
-lua  
 个人品牌  
 
 ## Do of the job: 
