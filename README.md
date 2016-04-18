@@ -42,6 +42,7 @@ lua
 微服务  
 视频直播   
 腾讯云    
+短网址  
 
 ## Do of the job: 
 favonian_order  
