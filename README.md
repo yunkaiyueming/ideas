@@ -11,7 +11,8 @@ workmen
 swoole  
 Business Plan,Business Name,Business idea  
 kafka  
-go_cd
+go_cd  
+Travis Ci  
 beanstalk  
 redis  
 hadoop hive   
@@ -22,6 +23,7 @@ linux devops
 docker vs vagrant   
 ansible  
 lua  
+zabbix  
 持续集成 持续交付 持续部署  
 对大脑思维，思考方式上的关注   
 自动化     
