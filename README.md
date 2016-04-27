@@ -8,8 +8,7 @@
 
 tcp/ip   
 workmen   
-swoole  
-Business Plan,Business Name,Business idea  
+swoole   
 kafka  
 go_cd  
 Travis Ci  
