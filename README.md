@@ -23,6 +23,7 @@ docker vs vagrant
 ansible  
 lua  
 zabbix  
+go  
 持续集成 持续交付 持续部署  
 对大脑思维，思考方式上的关注   
 自动化     
@@ -44,18 +45,3 @@ zabbix
 视频直播   
 腾讯云    
 短网址  
-
-## Do of the job: 
-favonian_order  
-crm  
-hr_resume  
-bi_kafka_go_redis  
-gpm  
-hammer  
-weixin_mp 
-cas_admin  
-rj_web  
-rsdk-set  
-go-cd   
-note   
-sdk  
